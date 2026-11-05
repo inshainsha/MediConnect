@@ -1,5 +1,4 @@
 # MediConnect
-A modern hospital management platform built with Java, Spring Boot, and MySQL to streamline patient records, doctor management, appointment, billing and hospital operations.
 
 # 🏥 MediConnect – Smart Hospital Management System
 
@@ -9,13 +8,9 @@ MediConnect is a web-based Hospital Management System designed to simplify and o
 
 It aims to connect patients, doctors and administrators by bringing important healthcare management activities together in one system.
 
----
-
 ## 📌 About the Project
 
 Hospitals manage a large amount of information every day, including patient details, doctor schedules, appointments, medical records and medicine inventory.
-
-Managing these activities through separate systems or manual processes can make hospital operations time-consuming and difficult to organize.
 
 MediConnect aims to address these challenges by providing a unified platform where different hospital activities can be managed efficiently.
 
@@ -32,21 +27,6 @@ Traditional hospital management processes may involve:
 - Challenges in tracking medicine stock and expiry dates.
 
 MediConnect aims to simplify these activities through centralized digital management.
-
-## 💡 What Makes MediConnect Different?
-
-MediConnect focuses on integrating multiple essential hospital operations into one organized platform rather than developing separate systems for individual tasks.
-
-Its key approach includes:
-
-- Centralized management of patients, doctors and appointments.
-- Organized medical history and consultation records.
-- Appointment scheduling with conflict prevention.
-- Medicine inventory and expiry monitoring.
-- Role-based access for different users.
-- Modular architecture that supports future expansion.
-
-The project is designed as an expandable healthcare management platform, with scope for additional features and integrations in future versions.
 
 ## 🎯 Project Objectives
 
